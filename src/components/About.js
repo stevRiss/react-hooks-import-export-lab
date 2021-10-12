@@ -1,3 +1,5 @@
+import {image} from "../data/user.js";
+
 import React from "react";
 
 function About() {
@@ -9,3 +11,4 @@ function About() {
     </div>
   );
 }
+export default About;
